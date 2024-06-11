@@ -11,3 +11,7 @@ Features
 3.Persistent Storage: Notes are stored in a SQLite database, ensuring that they are retained even after the server is restarted.
 
 4.Simple Interface: The user interface is clean and intuitive, providing a seamless note-taking experience.
+
+5. Delete Notes: Functionality of deleting the already maked notes.
+
+6. Implemented feature of login and logout also.
