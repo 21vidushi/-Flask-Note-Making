@@ -12,6 +12,6 @@ Features
 
 4.Simple Interface: The user interface is clean and intuitive, providing a seamless note-taking experience.
 
-5. Delete Notes: Functionality of deleting the already maked notes.
+5.Delete Notes: Functionality of deleting the already maked notes.
 
-6. Implemented feature of login and logout also.
+6.Implemented feature of login and logout also.
